@@ -1,3 +1,6 @@
 [submodule "deps/pycparser"]
 	path = deps/pycparser
 	url = https://github.com/eliben/pycparser.git
+[submodule "deps/redis"]
+	path = deps/redis
+	url = https://github.com/antirez/redis.git
