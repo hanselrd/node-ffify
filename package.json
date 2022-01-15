@@ -46,7 +46,7 @@
     "ref-array": "^1.2.0",
     "ref-struct": "^1.1.0",
     "ref-union": "^1.0.1",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "tslint": "^5.18.0",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^3.5.2",
